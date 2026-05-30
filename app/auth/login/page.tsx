@@ -1,6 +1,6 @@
 "use client"
 
-import AuthNav from '@/components/AuthNav';
+import AuthNav from '@/components/common/AuthNav';
 import { Mail, Lock, Check, Brain, HandCoins } from 'lucide-react';
 import Link from "next/link";
 import { LoginData } from '@/types/auth.types';

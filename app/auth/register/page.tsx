@@ -1,7 +1,7 @@
 "use client"
 
 import { useState } from 'react';
-import AuthNav from '@/components/AuthNav';
+import AuthNav from '@/components/common/AuthNav';
 import { User, Mail, Lock, Check, Brain, HandCoins } from 'lucide-react';
 import Link from "next/link";
 import { RegisterData, RegisterForm } from '@/types/auth.types';
